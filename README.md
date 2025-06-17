@@ -36,4 +36,6 @@ A simple, modern Java desktop application for downloading YouTube videos as `.mp
 Make sure `yt-dlp` is installed and available from the command line:
 
 ```bash
+pip install yt-dlp
 yt-dlp --version
+```
