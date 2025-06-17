@@ -35,7 +35,10 @@ A simple, Java desktop application for downloading YouTube videos as `.mp3` file
 
 Make sure `yt-dlp` is installed and available from the command line:
 
+
 ```bash
 pip install yt-dlp
+```
+```bash
 yt-dlp --version
 ```
