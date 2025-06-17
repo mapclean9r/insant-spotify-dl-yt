@@ -22,7 +22,7 @@ A simple, modern Java desktop application for downloading YouTube videos as `.mp
 
 ## 🖼 UI Preview
 
-
+<img src="assets/prev.png" width="600"/>
 
 ---
 
