@@ -4,7 +4,7 @@
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Cross--platform-lightgrey)
 ![yt-dlp](https://img.shields.io/badge/yt--dlp-required-yellow)
 
-A simple, modern Java desktop application for downloading YouTube videos as `.mp3` files — perfect for **Spotify local files**. Built with `Swing`, supports real-time logs, history, and auto-folder updates.
+A simple, Java desktop application for downloading YouTube videos as `.mp3` files — perfect for **Spotify local files**. Built with `Swing`, supports real-time logs, history, and auto-folder updates.
 
 ---
 
