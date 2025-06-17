@@ -1,4 +1,4 @@
-# 🎵 YouTube MP3 Downloader
+# 🎵 YouTube MP3 Downloader - Spotify local file unbugger
 
 ![Java](https://img.shields.io/badge/Java-17%2B-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Cross--platform-lightgrey)
